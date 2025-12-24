@@ -1,0 +1,29 @@
+header {
+    display: flex;
+    justify-content: center;
+}
+
+main {
+    display: flex;
+    justify-content: space-around;
+}
+
+.Storage {
+    border-color: black;
+    border-width: 1px;
+    border-style: solid;
+    height: 380px;
+    width: 280px;
+
+}
+
+div {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    gap: 5px
+}
+
+.Title {
+    text-align: center;
+}
